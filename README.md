@@ -10,8 +10,8 @@ Fiona Magee, Malawi Springer, Evelyn Storrs
 
 # You butter(fly) believe it! Butterfly Sorter
 
-## Introduction
-
+## Kaggle
+https://www.kaggle.com/code/evistorrs/butterfly-neural-network 
 
 ## Our Data
 Our dataset consists of 12,594 training images, and 500 testing images. The images are in a 224x224
